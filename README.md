@@ -14,3 +14,4 @@ The objective of this project is to design and develop an interactive Power BI d
 - Which months had peak sales volume?
 - Which sub-category (Phones, Accessories, Copiers, etc.) drives the most profit?
 
+- Dashbord Interaction <a href="https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/amazon.pbix" >View Dashbord</a>
