@@ -15,3 +15,50 @@ The objective of this project is to design and develop an interactive Power BI d
 - Which sub-category (Phones, Accessories, Copiers, etc.) drives the most profit?
 
 - Dashbord Interaction <a href="https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/amazon.pbix" >View Dashbord</a>
+## process
+Get the Data
+I used Excel or CSV file with Amazon sales details like:
+Order ID, Product Name, Category, Region, Segment
+Sales, Profit, Shipping Mode, Payment Mode, etc.
+
+2️⃣ Clean the Data
+Opened data in Power Query.
+Removed errors or blanks.
+Changed data types (dates, numbers, text).
+Created new fields like:
+Total Cost = Sales - Profit
+
+3️⃣ Build Relationships
+Linked the tables (Orders, Products, Region) using keys.
+Followed a star schema to keep things organized and fast.
+4️⃣ Create Measures (Formulas)
+Used DAX to calculate:
+Total Sales
+Total Profit
+Profit Margin
+Returns %
+Sales by Month or Segment
+
+5️⃣ Design the Dashboard
+Used charts like:
+Donut charts for ship mode and payment mode
+Map for sales by state
+Bar/Column charts for profit by category/sub-category
+Line chart for monthly sales trends
+Used slicers to filter by State and Region
+
+6️⃣ Make It Interactive
+Click on one chart → see all visuals update.
+Used tooltips and colors to improve user experience.
+
+
+
+
+
+
+
+
+
+
+Ask ChatGPT
+
