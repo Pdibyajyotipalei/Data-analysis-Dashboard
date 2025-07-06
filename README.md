@@ -16,49 +16,14 @@ The objective of this project is to design and develop an interactive Power BI d
 
 - Dashbord Interaction <a href="https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/amazon.pbix" >View Dashbord</a>
 ## process
-Get the Data
-I used Excel or CSV file with Amazon sales details like:
-Order ID, Product Name, Category, Region, Segment
-Sales, Profit, Shipping Mode, Payment Mode, etc.
-
-2️⃣ Clean the Data
-Opened data in Power Query.
-Removed errors or blanks.
-Changed data types (dates, numbers, text).
-Created new fields like:
-Total Cost = Sales - Profit
-
-3️⃣ Build Relationships
-Linked the tables (Orders, Products, Region) using keys.
-Followed a star schema to keep things organized and fast.
-4️⃣ Create Measures (Formulas)
-Used DAX to calculate:
-Total Sales
-Total Profit
-Profit Margin
-Returns %
-Sales by Month or Segment
-
-5️⃣ Design the Dashboard
-Used charts like:
-Donut charts for ship mode and payment mode
-Map for sales by state
-Bar/Column charts for profit by category/sub-category
-Line chart for monthly sales trends
-Used slicers to filter by State and Region
-
-6️⃣ Make It Interactive
-Click on one chart → see all visuals update.
-Used tooltips and colors to improve user experience.
+- Imported Amazon sales data from Excel into Power BI.
+- Cleaned and transformed data using Power Query.
+- Built relationships between tables and created DAX measures for KPIs.
+- Designed visuals like charts, maps, and slicers for interactivity.
+- Published the dashboard to gain insights on sales, profit, and customer trends.
+## Dashboard
+https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/Screenshot%202025-07-06%20000756.png
 
 
 
-
-
-
-
-
-
-
-Ask ChatGPT
 
