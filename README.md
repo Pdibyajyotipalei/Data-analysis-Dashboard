@@ -22,7 +22,8 @@ The objective of this project is to design and develop an interactive Power BI d
 - Designed visuals like charts, maps, and slicers for interactivity.
 - Published the dashboard to gain insights on sales, profit, and customer trends.
 ## Dashboard
-https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/Screenshot%202025-07-06%20000756.png
+![Screenshot 2025-07-06 000756](https://github.com/user-attachments/assets/9042a94d-bb81-4a43-9717-3495ffede8d3)
+
 
 ## project insight
 - Standard shipping mode is the most commonly used by customers.
