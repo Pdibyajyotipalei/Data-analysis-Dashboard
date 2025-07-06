@@ -1,2 +1,3 @@
-# Data-analysis-Dashboard
-I devleoped the comprehensive project in power BI creating Multiple Dashboard and table to Analyze the data.
+# Amazon Sales Dashboard in Power BI
+The objective of this project is to design and develop an interactive Power BI dashboard that provides comprehensive insights into Amazon sales performance. The goal is to help stakeholders monitor key sales metrics, identify trends, and make data-driven decisions to improve overall business efficiency and profitability.
+
