@@ -22,8 +22,17 @@ The objective of this project is to design and develop an interactive Power BI d
 - Designed visuals like charts, maps, and slicers for interactivity.
 - Published the dashboard to gain insights on sales, profit, and customer trends.
 ## Dashboard
-"https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/Screenshot%202025-07-06%20000756.png"
+https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/Screenshot%202025-07-06%20000756.png
 
-
+## project insight
+- Standard shipping mode is the most commonly used by customers.
+- Cash on Delivery (COD) is the top payment method, followed by online payments.
+- The South and West regions have higher sales compared to others.
+- Q4 shows the highest sales and profit, indicating strong seasonal demand.
+- The Technology category contributes the most to overall profit.
+- Consumer segment drives the highest sales among all customer segments.
+- A small percentage of orders are returned, helping maintain good profit margins.
+  ## Final Conclusion
+  The Amazon Sales Dashboard provides a clear and interactive view of sales performance across different regions, categories, and time periods. By analyzing key metrics such as total sales, profit, shipping methods, and payment preferences, the dashboard helps identify top-performing segments and uncover trends like seasonal spikes in Q4. It supports better decision-making by highlighting where to focus marketing, inventory, and operational efforts. Overall, this project demonstrates the power of data visualization in simplifying complex business data and driving actionable insights.
 
 
