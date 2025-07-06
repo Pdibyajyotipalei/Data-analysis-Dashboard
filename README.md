@@ -22,7 +22,7 @@ The objective of this project is to design and develop an interactive Power BI d
 - Designed visuals like charts, maps, and slicers for interactivity.
 - Published the dashboard to gain insights on sales, profit, and customer trends.
 ## Dashboard
-https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/Screenshot%202025-07-06%20000756.png
+"https://github.com/Pdibyajyotipalei/Data-analysis-Dashboard/blob/main/Screenshot%202025-07-06%20000756.png"
 
 
 
